@@ -1,0 +1,202 @@
+[
+  {
+    "timestamp": "2025-12-27T02:22:03.876178Z",
+    "obstruction_fraction": 0.12932038,
+    "obstruction_percent": 12.932
+  },
+  {
+    "timestamp": "2025-12-27T02:27:04.285632Z",
+    "obstruction_fraction": 0.13065134,
+    "obstruction_percent": 13.065
+  },
+  {
+    "timestamp": "2025-12-27T02:32:04.634177Z",
+    "obstruction_fraction": 0.12992424,
+    "obstruction_percent": 12.992
+  },
+  {
+    "timestamp": "2025-12-27T02:37:04.903659Z",
+    "obstruction_fraction": 0.12929747,
+    "obstruction_percent": 12.93
+  },
+  {
+    "timestamp": "2025-12-27T02:42:05.254937Z",
+    "obstruction_fraction": 0.1287238,
+    "obstruction_percent": 12.872
+  },
+  {
+    "timestamp": "2025-12-27T02:47:05.525448Z",
+    "obstruction_fraction": 0.1287741,
+    "obstruction_percent": 12.877
+  },
+  {
+    "timestamp": "2025-12-27T02:52:05.930111Z",
+    "obstruction_fraction": 0.12854578,
+    "obstruction_percent": 12.855
+  },
+  {
+    "timestamp": "2025-12-27T02:57:06.280493Z",
+    "obstruction_fraction": 0.12695035,
+    "obstruction_percent": 12.695
+  },
+  {
+    "timestamp": "2025-12-27T03:02:06.651717Z",
+    "obstruction_fraction": 0.12600912,
+    "obstruction_percent": 12.601
+  },
+  {
+    "timestamp": "2025-12-27T03:07:07.097284Z",
+    "obstruction_fraction": 0.12565082,
+    "obstruction_percent": 12.565
+  },
+  {
+    "timestamp": "2025-12-27T03:11:19.010802Z",
+    "obstruction_fraction": 0.12504295,
+    "obstruction_percent": 12.504
+  },
+  {
+    "timestamp": "2025-12-27T03:12:37.706557Z",
+    "obstruction_fraction": 0.12576897,
+    "obstruction_percent": 12.577
+  },
+  {
+    "timestamp": "2025-12-27T03:13:44.468825Z",
+    "obstruction_fraction": 0.12653479,
+    "obstruction_percent": 12.653
+  },
+  {
+    "timestamp": "2025-12-27T03:18:13.425473Z",
+    "obstruction_fraction": 0.12563495,
+    "obstruction_percent": 12.563
+  },
+  {
+    "timestamp": "2025-12-27T03:18:56.197296Z",
+    "obstruction_fraction": 0.12364865,
+    "obstruction_percent": 12.365
+  },
+  {
+    "timestamp": "2025-12-27T03:19:48.827831Z",
+    "obstruction_fraction": 0.12390277,
+    "obstruction_percent": 12.39
+  },
+  {
+    "timestamp": "2025-12-27T03:24:49.094282Z",
+    "obstruction_fraction": 0.12111074,
+    "obstruction_percent": 12.111
+  },
+  {
+    "timestamp": "2025-12-27T03:29:49.544602Z",
+    "obstruction_fraction": 0.12112112,
+    "obstruction_percent": 12.112
+  },
+  {
+    "timestamp": "2025-12-27T03:34:49.812345Z",
+    "obstruction_fraction": 0.11840796,
+    "obstruction_percent": 11.841
+  },
+  {
+    "timestamp": "2025-12-27T03:39:50.125377Z",
+    "obstruction_fraction": 0.11614825,
+    "obstruction_percent": 11.615
+  },
+  {
+    "timestamp": "2025-12-27T03:44:50.626550Z",
+    "obstruction_fraction": 0.11518152,
+    "obstruction_percent": 11.518
+  },
+  {
+    "timestamp": "2025-12-27T03:49:51.034330Z",
+    "obstruction_fraction": 0.11801446,
+    "obstruction_percent": 11.801
+  },
+  {
+    "timestamp": "2025-12-27T03:52:14.177992Z",
+    "obstruction_fraction": 0.119882084,
+    "obstruction_percent": 11.988
+  },
+  {
+    "timestamp": "2025-12-27T03:57:14.553918Z",
+    "obstruction_fraction": 0.11969993,
+    "obstruction_percent": 11.97
+  },
+  {
+    "timestamp": "2025-12-27T03:58:58.660601Z",
+    "obstruction_fraction": 0.1203252,
+    "obstruction_percent": 12.033
+  },
+  {
+    "timestamp": "2025-12-27T04:03:58.999216Z",
+    "obstruction_fraction": 0.12410888,
+    "obstruction_percent": 12.411
+  },
+  {
+    "timestamp": "2025-12-27T04:07:02.905547Z",
+    "obstruction_fraction": 1.0,
+    "obstruction_percent": 100.0
+  },
+  {
+    "timestamp": "2025-12-28T23:27:53.454198Z",
+    "obstruction_fraction": 0.1262644,
+    "obstruction_percent": 12.626
+  },
+  {
+    "timestamp": "2025-12-30T00:37:04.794823Z",
+    "obstruction_fraction": 0.27452976,
+    "obstruction_percent": 27.453
+  },
+  {
+    "timestamp": "2025-12-30T00:42:05.106112Z",
+    "obstruction_fraction": 0.2768175,
+    "obstruction_percent": 27.682
+  },
+  {
+    "timestamp": "2025-12-30T00:47:05.393489Z",
+    "obstruction_fraction": 0.2763091,
+    "obstruction_percent": 27.631
+  },
+  {
+    "timestamp": "2025-12-30T00:52:05.623078Z",
+    "obstruction_fraction": 0.276493,
+    "obstruction_percent": 27.649
+  },
+  {
+    "timestamp": "2025-12-30T00:57:05.992208Z",
+    "obstruction_fraction": 0.276493,
+    "obstruction_percent": 27.649
+  },
+  {
+    "timestamp": "2025-12-30T19:19:36.052097Z",
+    "obstruction_fraction": 0.30308393,
+    "obstruction_percent": 30.308
+  },
+  {
+    "timestamp": "2025-12-30T19:24:36.262781Z",
+    "obstruction_fraction": 0.30409506,
+    "obstruction_percent": 30.41
+  },
+  {
+    "timestamp": "2025-12-30T19:29:36.553370Z",
+    "obstruction_fraction": 0.30283114,
+    "obstruction_percent": 30.283
+  },
+  {
+    "timestamp": "2025-12-30T19:34:36.802088Z",
+    "obstruction_fraction": 0.30156723,
+    "obstruction_percent": 30.157
+  },
+  {
+    "timestamp": "2025-12-30T19:39:37.111698Z",
+    "obstruction_fraction": 0.3008089,
+    "obstruction_percent": 30.081
+  },
+  {
+    "timestamp": "2025-12-30T19:44:37.302171Z",
+    "obstruction_fraction": 0.3010617,
+    "obstruction_percent": 30.106
+  },
+  {
+    "timestamp": "2026-01-01T00:21:00.758877Z",
+    "obstruction_fraction": 0.064406134,
+    "obstruction_percent": 6.441
+  }
+]
